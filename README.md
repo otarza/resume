@@ -13,7 +13,7 @@ It’s 7 years since I became **Drupal** developer and there has been not even o
 
 Apart from Drupal development I have some experience with PHP frameworks like Symfony and Slim.
 
-**Latest open source activities**
+### Latest open source activities
 
 * [Entando App Builder](https://github.com/entando/app-builder) Web development platform built using **React** for enterprise application development.
 
@@ -27,7 +27,7 @@ Apart from Drupal development I have some experience with PHP frameworks like Sy
 
 * [Survey Manager](https://github.com/wfp/survey_manager/tree/develop) - Integrating third party surveys.		
 
-**Latest projects **
+### Latest projects
 
 * [Gifts](https://gifts.concern.net/) - **React** and headless Drupal 8 based store for charity gifts.
 
