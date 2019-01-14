@@ -47,7 +47,7 @@ Apart from Drupal development I have some experience with PHP frameworks like Sy
 
 					
 
-###Employment history
+### Employment history
 
 **Entando, Remote, Contractor**				
 
