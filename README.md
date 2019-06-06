@@ -21,8 +21,6 @@ Apart from Drupal development I have some experience with PHP frameworks like Sy
 
 * [AccountKit](https://www.drupal.org/project/accountkit) - Passwordless authentication using [Account Kit](https://developers.facebook.com/docs/accountkit) service 
 
-* [Content Sync](https://github.com/wfp/content_sync/tree/develop) - Tool for syncing, exporting and importing data into Drupal.
-
 * [Smart Alias](https://github.com/wfp/smart_alias/tree/develop) - Creating smart aliases for Drupal.
 
 * [Survey Manager](https://github.com/wfp/survey_manager/tree/develop) - Integrating third party surveys.		
@@ -36,15 +34,6 @@ Apart from Drupal development I have some experience with PHP frameworks like Sy
 * [Concern.net](https://www.concern.net/) - Drupal 7 based charity portal.
 
 * [WFP.org](http://www1.wfp.org/) - UN’s World Food Program.
-
-* [Kimono](http://kimono.adjara.com/) - Bedrock managed Wordpress project for local TV show. 
-
-* [C L O T H T O M E](https://www.clothtome.com/) - Woocommerce powered online shop for different kinds of clothes.
-
-* [Rehab Reviews](https://rehabreviews.com/) - Online addiction and recovery magazine.
-
-* [The Fix](https://local.thefix.com/) - Rehab centers listings.
-
 					
 
 ### Employment history
@@ -69,7 +58,7 @@ Working on [Concern Worldwide](https://www.concern.net/) - **Drupal 7** project.
 
 **AzRy LLC, Tbilisi, Georgia**				
 
-Senior Software Engineer - October 2015 - August 2017
+Senior Software Engineer - 2015 - 2017
 
 Responsible for implementing Drupal 8 custom and contributed modules while working with wfp.org ’s remote development team on various projects.
 
@@ -78,100 +67,20 @@ Worked on implementing new wfp.org portal using Drupal 8.
 Also Participated in development of AWS S3 powered video portal, using PHP AWS SDK.
 
 Using Behat, PHPUnit tests and PHPCodeSniffer for maintaining high quality of work.	
-
-									
-
-**WEBINTELLIGENCE, Tbilisi, Georgia**			
-
-Lead of web development team 2015
-
-						
-
-Responsible for managing multiple development teams working on various projects. Managing teams using Agile methodology and specifically Scrum.
-
-						
-
-Responsible for developing [gds.tv](http://gds.tv/) , portal for local entertainment TV channel using PHP and Drupal.
-
-						
-
-Managing Drupal, Symfony, Laravel and Wordpress development projects. 				
-
-		
-
-**VLORAN LTD, Tbilisi, Georgia**						
-
-Lead of web-development team 2013 - 2014
-
-						
-
-Responsible for managing PHP and Drupal development teams using Scrum methodology. Communicating with clients and partners from various countries. 		
-
 			
-
-**Silknet JSC, Tbilisi, Georgia**			
-
-Software Developer, 2013
-
-Developer of local Cable TV portal, billing system and services. 
-
 **Picktek LLC, Tbilisi, Georgia**					
 
 Software Developer, 2012-2013
 
 Developer of "PayMobile" Android application for Liberty Bank, Appcelerator Titanium.
 
+Developer of [wfp.org](http://www1.wfp.org/) web-portal using Drupal. Developing new features, optimizing existing functionalities and fixing bugs.				
+
+Responsible for PHP, Java, Objective C, JavaScript, HTML, CSS development for desktop and mobile platforms including iOS and Android. 
 				
 
-Developer of [wfp.org](http://www1.wfp.org/) web-portal using Drupal. Developing new features, optimizing existing functionalities and fixing bugs.
-
-						
-
-Responsible for PHP, Java, Objective C, JavaScript, HTML, CSS development for desktop and mobile platforms including iOS and Android. 		
-
-**Innotec LLC, Tbilisi, Georgia**				
-
-Junior Software Developer, 2011-2012
-
-						
-
-Developer of Billboard Ad Management System. Java, JavaScript, Oracle PL/SQL and Spring development. 	
-
-			
-
-**Chamber of Control of Georgia, Tbilisi, Georgia**			
-
-Intern, April 2012
-
-Web Infrastructure Manager and IT Consultant. 
-
-				
-
-**Caucasus University, Tbilisi, Georgia**
-
-Software Developer and Administrator, 2008-2012
-
-						
-
-Developer of internal Syllabus Management System. PHP, JavaScript, HTML, CSS and Drupal development. Maintaining internal sites and university blogs.
-
-**Cyberia LLC, Tbilisi, Georgia**						
-
-Systems Administrator, 2010-2011
-
-						
-
-Servers installation, troubleshooting and maintenance. Management scripts development. 
-
-				
-
-**Proficiencies**
-
-						
-
+**Proficiencies**					
 I am mostly experienced in PHP, Javascript and related tools and frameworks but during my technology agnostic career approach, I had a chance to learn, explore and teach listed technologies and tools for work, for helping others and mostly just for fun and self-improvement.
-
-						
 
 * JavaScript
 
