@@ -1,7 +1,7 @@
 # Otar Zakalashvili
 
 ## Experience
-During 9+ years of productive web development I became experienced, passionate and self-driven full-stack web developer. I use technologies to work on solving wide range of problems while spreading education about web development and helping my clients and employers to achieve their goals in most efficient ways.
+During 10+ years of productive web development I became experienced, passionate and self-driven full-stack web developer. I use technologies to work on solving wide range of problems while spreading education about web development and helping my clients and employers to achieve their goals in most efficient ways.
 
 ### React
 
